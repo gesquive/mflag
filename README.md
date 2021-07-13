@@ -1,5 +1,6 @@
-Package mflag (aka multiple-flag) implements command-line flag parsing.  
-It's a **hacky** fork of the [official golang package](http://golang.org/pkg/flag/)
+Package mflag (aka multiple-flag) implements command-line flag parsing.
+
+This repo is a fork of the [docker mflag package](https://github.com/moby/moby/tree/2c50035f93ec580fb1b901a2c99a2f95f525a796/pkg/mflag) before it was replaced. That package was itself a **hacky** fork of the [official golang package](http://golang.org/pkg/flag/)
 
 It adds:
 
